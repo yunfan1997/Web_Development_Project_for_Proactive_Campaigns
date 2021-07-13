@@ -1,0 +1,9 @@
+{
+    "mongoURI": "mongodb+srv://helen123:helen123@devconnector.gaqrs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken",
+    "githubClientId":"c46ae0c76a4b5565067c",
+    "githubSecret": "e371352f2b55128d93dd004c6319994690bee622",
+    "githubToken": "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"
+    
+
+}
